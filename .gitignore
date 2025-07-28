@@ -124,3 +124,26 @@ _modules/*
 
 /results/
 /phpunit*.xml
+
+# Composer vendor folder
+/vendor/
+
+# Node modules
+/node_modules/
+
+# Env file
+.env
+
+# IDE & system files
+*.swp
+*.log
+*.bak
+.DS_Store
+Thumbs.db
+
+# CI4 writable cache
+/writable/cache/*
+/writable/logs/*
+/writable/session/*
+/writable/debugbar/*
+!writable/index.html

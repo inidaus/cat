@@ -51,7 +51,7 @@ dari **Langit Inovasi** → [https://inova.my.id](https://inova.my.id)
 ## 📂 Struktur Aplikasi
 
 ```
-📦 cbt/
+📦 cat/
  ┣ 📁 app/
  ┃ ┣ 📁 Controllers/      # Logic aplikasi
  ┃ ┃ ┣ 📁 Admin/          # Controller admin

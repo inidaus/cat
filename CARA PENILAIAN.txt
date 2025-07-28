@@ -1,0 +1,11 @@
+🎯 Sistem Penilaian :
+Single Kategori:
+Skor = (Benar / Total Soal) × 100%
+Lulus jika Skor ≥ Passing Grade
+Contoh: 3/5 = 60%, PG = 70% → TIDAK LULUS ✅
+
+Multiple Kategori:
+Skor per mapel = (Benar / Total Soal) × 100%
+Skor total = Rata-rata semua mapel
+Lulus jika Skor Total ≥ Passing Grade Total
+Contoh: (80% + 60%) / 2 = 70%, PG Total = 70% → LULUS ✅
